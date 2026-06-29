@@ -2,7 +2,7 @@
 Repository for my Resume.
 
 <details>
-  <summary> Click Dropdown </summary>
+  <summary> ##Pond Wars </summary>
   <br>
-  This is dropdown.
+  Placeholder
 </details>
