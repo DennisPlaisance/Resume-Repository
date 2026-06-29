@@ -2,7 +2,7 @@
 Repository for my Resume.
 
 <details>
-  <summary> # Pond Wars </summary>
+  <summary> <h2> Pond Wars </h2> </summary>
   <br>
   Placeholder
 </details>
