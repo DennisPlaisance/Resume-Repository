@@ -2,6 +2,20 @@
 Repository for my Resume.
 
 <details>
+  <summary> <h2 Lights Out </h2> </summary>
+    Horror game made in collaboration with the Candle Team.
+    <br>
+    Takes place in an old haunted lighthouse. Keep your sanity up by staying in light. Manage your candle every so often and keep it lit.
+    <br>
+    Keep back ghosts by warding them off with your candle. Complete puzzles in order to reactivate the lighthouse.
+    <br><br>
+    Link to game: placeholder
+    <br><br>
+    <img width="1504" height="862" alt="image" src="https://github.com/user-attachments/assets/277ffc69-ae50-4039-9613-ab434a78fe54" />
+
+</details>
+
+<details>
   <summary> <h2> Pond Wars </h2> </summary>
   Obviously based on a certain other game involving birds, Pond Wars is a simple game of Ducks vs Beavers.
   <br>
