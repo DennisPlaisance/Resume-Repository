@@ -17,9 +17,17 @@ Link to game: placeholder
   <br><br>
   <img width="1520" height="854" alt="image" src="https://github.com/user-attachments/assets/8640b6a7-1c57-4853-9443-184bb8ffd19c" />
   <br><br>
+  <br><br>
+  <br><br>
   Warding off a ghost
   <br><br>
   <img width="1504" height="862" alt="image" src="https://github.com/user-attachments/assets/277ffc69-ae50-4039-9613-ab434a78fe54" />
+  <br><br>
+  <br><br>
+  <br><br>
+  3-Digit Code Lock
+  <br><br>
+  <img width="1519" height="892" alt="image" src="https://github.com/user-attachments/assets/a933fe07-5bf9-42da-9946-80ad33c3036a" />
 </details>
 
 <h2> Pond Wars </h2>
