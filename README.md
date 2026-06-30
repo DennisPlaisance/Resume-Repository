@@ -2,7 +2,6 @@
 Repository for my Resume.
 
 <h2> Lights Out </h2>
-<br><br>
 Horror game made in collaboration with the Candle Team.
 <br>
 Takes place in an old haunted lighthouse. Keep your sanity up by staying in light. Manage your candle every so often and keep it lit.
