@@ -12,10 +12,13 @@ Link to game: placeholder
 <br><br>
 <details>
 <summary> Screenshots </summary>
+  <br><br>
   Title Screen
+  <br><br>
   <img width="1520" height="854" alt="image" src="https://github.com/user-attachments/assets/8640b6a7-1c57-4853-9443-184bb8ffd19c" />
-  <br>
+  <br><br>
   Warding off a ghost
+  <br><br>
   <img width="1504" height="862" alt="image" src="https://github.com/user-attachments/assets/277ffc69-ae50-4039-9613-ab434a78fe54" />
 </details>
 
