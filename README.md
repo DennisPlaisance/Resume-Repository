@@ -2,18 +2,19 @@
 Repository for my Resume.
 
 <details>
-  <summary>
-    <h2> Lights Out </h2>
-    <br><br>
-     Horror game made in collaboration with the Candle Team.
-    <br>
-    Takes place in an old haunted lighthouse. Keep your sanity up by staying in light. Manage your candle every so often and keep it lit.
-    <br>
-    Keep back ghosts by warding them off with your candle. Complete puzzles in order to reactivate the lighthouse.
-    <br><br>
-    Link to game: placeholder
-  </summary>
-    <img width="1504" height="862" alt="image" src="https://github.com/user-attachments/assets/277ffc69-ae50-4039-9613-ab434a78fe54" />
+<h2> Lights Out </h2>
+<br><br>
+Horror game made in collaboration with the Candle Team.
+<br>
+Takes place in an old haunted lighthouse. Keep your sanity up by staying in light. Manage your candle every so often and keep it lit.
+<br>
+Keep back ghosts by warding them off with your candle. Complete puzzles in order to reactivate the lighthouse.
+<br><br>
+Link to game: placeholder
+<br><br>
+Screenshots
+<summary> Screenshots </summary>
+  <img width="1504" height="862" alt="image" src="https://github.com/user-attachments/assets/277ffc69-ae50-4039-9613-ab434a78fe54" />
 
 </details>
 
