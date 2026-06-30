@@ -1,5 +1,5 @@
-# Resume-Repository
-Repository of some of my best work this year.
+# Repository Portfolio
+Repository of some of my best work.
 
 <h2> Lights Out </h2>
 Horror game made in collaboration with the Candle Team.
