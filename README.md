@@ -1,7 +1,6 @@
 # Resume-Repository
 Repository for my Resume.
 
-<details>
 <h2> Lights Out </h2>
 <br><br>
 Horror game made in collaboration with the Candle Team.
@@ -12,10 +11,9 @@ Keep back ghosts by warding them off with your candle. Complete puzzles in order
 <br><br>
 Link to game: placeholder
 <br><br>
-Screenshots
+<details>
 <summary> Screenshots </summary>
   <img width="1504" height="862" alt="image" src="https://github.com/user-attachments/assets/277ffc69-ae50-4039-9613-ab434a78fe54" />
-
 </details>
 
 <details>
