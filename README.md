@@ -18,11 +18,9 @@ Link to game: placeholder
   <img width="1520" height="854" alt="image" src="https://github.com/user-attachments/assets/8640b6a7-1c57-4853-9443-184bb8ffd19c" />
   <br><br>
   <br><br>
-  <br><br>
   Warding off a ghost
   <br><br>
   <img width="1504" height="862" alt="image" src="https://github.com/user-attachments/assets/277ffc69-ae50-4039-9613-ab434a78fe54" />
-  <br><br>
   <br><br>
   <br><br>
   3-Digit Code Lock
@@ -39,6 +37,14 @@ Link to game: https://github.com/DennisPlaisance/DHP_GES_Assessment
 <br><br>
 <details>
 <summary> Screenshots </summary>
+  <br><br>
+  Title Screen
+  <br><br>
+  <img width="1521" height="894" alt="image" src="https://github.com/user-attachments/assets/18c898ac-b9e6-4b1f-a709-c12588ecdb6d" />
+  <br><br>
+  <br><br>
+  Level 1
+  <br><br>
   <img width="1217" height="682" alt="image" src="https://github.com/user-attachments/assets/019f4a61-d8cc-4686-8db1-f024c5d91441" />
 </details>
 
